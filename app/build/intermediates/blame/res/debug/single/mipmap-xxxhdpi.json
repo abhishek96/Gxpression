@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\off.png",
+        "source": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\src\\main\\res\\mipmap-xxxhdpi\\off.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\on.png",
+        "source": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\src\\main\\res\\mipmap-xxxhdpi\\on.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\launcher.png",
+        "source": "D:\\My Projects\\Android Apps\\Gconfig\\lylepedal\\app\\src\\main\\res\\mipmap-xxxhdpi\\launcher.png"
+    }
+]

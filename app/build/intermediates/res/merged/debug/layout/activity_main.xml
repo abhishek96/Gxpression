@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.hrishir.lylepedal.MainActivity">
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="46dp"
+        android:textOn="F S"
+        android:textOff="Exp"
+        android:id="@+id/discrete_choice"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Expression"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/expression"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/discrete_choice"/>
+
+    <TextView
+        android:layout_marginLeft="8dp"
+        android:text="Foot Switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/foootswitch"
+        android:layout_marginTop="50dp"
+        android:layout_toRightOf="@+id/discrete_choice"
+         />
+
+    <CheckBox
+        android:text="Inversion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/inversion_checkBox"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/expression"
+        android:layout_marginLeft="50dp" />
+
+    <TextView
+        android:text="Max Incline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/smoothing"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="10dp"
+        android:layout_alignLeft="@+id/autocaliberate_checkBox"
+        android:layout_alignStart="@+id/autocaliberate_checkBox" />
+
+    <CheckBox
+        android:text="Auto Calibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/autocaliberate_checkBox"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/inversion_checkBox"
+        android:layout_alignLeft="@+id/inversion_checkBox"
+        android:layout_alignStart="@+id/inversion_checkBox" />
+
+    <TextView
+        android:text="Delay Time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:layout_marginTop="260dp"
+
+        android:layout_alignLeft="@+id/smoothing"
+        android:layout_alignStart="@+id/smoothing" />
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar5"
+        android:minHeight="68dp"
+        android:minWidth="250dp"
+        android:max="5000"
+        android:layout_marginTop="270dp"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:maxHeight="68dp" />
+
+    <TextView
+        android:text="Smoothing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/seekBar5"
+        android:layout_alignLeft="@+id/seekBar7"
+        android:layout_alignStart="@+id/seekBar7" />
+
+    <Button
+        android:text="Recalibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/recaliberate_button"
+        android:layout_marginTop="200dp"
+        android:visibility="gone"
+        android:layout_alignLeft="@+id/discrete_choice"
+        android:layout_alignStart="@+id/discrete_choice" />
+
+    <TextView
+        android:text="Mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif"
+        android:textSize="25sp"
+        android:id="@+id/textView7" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:src="@mipmap/on"
+        android:forceHasOverlappingRendering="false"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar3"
+        android:minHeight="68dp"
+        android:minWidth="250dp"
+        android:layout_alignTop="@+id/smoothing"
+        android:layout_alignLeft="@+id/smoothing"
+        android:layout_alignStart="@+id/smoothing"
+        android:maxHeight="68dp"
+        />
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar7"
+        android:minHeight="68dp"
+        android:minWidth="250dp"
+        android:layout_below="@+id/seekBar5"
+        android:layout_alignLeft="@+id/seekBar5"
+        android:layout_alignStart="@+id/seekBar5"
+        android:maxHeight="68dp"/>
+
+</RelativeLayout>

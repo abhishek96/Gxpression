@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_59ffcd0b05494af44667603e2f4b27849331112b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_845b6c4ff8ebcc7d68db744e6751fb80d4123a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_cab2781a61884dbaf88cf6482302935b8218f618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_41549e70c65bb8836cfae917db457bab895da54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1a5d51ac3a2204c06a4c1243c5e8a785bad79312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_67c33f731fc8485d7be94b847f9b0c710e2a7217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0012d68c0d090e551151a60661021331cd9faf43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b38d50554d730d50e10e5e97db54eeeeb7763df4">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aad883d7a2f40e18419eb4d116316d2eba207611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="324c13876fc76e28e94d39e73f994e9edbf3ffd6">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_14f9b324c811004cb9c9d180084c6b67c9d95cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_57229e06ef5eb8d173c7f9bb6a087ad2a8678a7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_26f9db1a1c2729911d1961d9a5f99267aeee07b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_1b230dfe62be21b406470dfe0e76775ccea39090\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_550c53ce5b3d201d86845c353dc66db7ea106e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9c3fb3c8413c7aa900d0273eaf6188af5b55e617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_059f3edf7a21660fd3eb6a9a8716f81a8817d46e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_90868a426b739b37d127332c3a58598c13500d3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_8ffdfa5c6905865e241242e24afe96c731e9ad4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f0b85aac6c9d87a96342b02df8d792aa70ceb224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6fbddc989442278a0fd548b0998997d6735f0c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2571960b25427ace2840dd53cabff692ef6aefe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_2245b0c052ab9febcfe7f82c7cb794e4c0dbbfcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\My Projects\Android Apps\Gconfig\lylepedal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_1d0877763f84a761ab70814ee0ef6064639c5791\classes.dex" />
+    </item>
+
+</items>
